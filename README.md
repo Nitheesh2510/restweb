@@ -500,10 +500,10 @@ about.html
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-14 135946.png>) !
-[alt text](<Screenshot 2024-12-14 135958.png>) !
-[alt text](<Screenshot 2024-12-14 140009.png>) !
-[alt text](<Screenshot 2024-12-14 140024.png>)
+![alt text](<Screenshot 2024-12-14 135946.png>) 
+![alt text](<Screenshot 2024-12-14 135958.png>) 
+![alt text](<Screenshot 2024-12-14 140009.png>) 
+![alt text](<Screenshot 2024-12-14 140024.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
